@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "link": "https://res.cloudinary.com/diuay8wri/image/upload/v1692991223/images_folder/w9tk5oicce2ayubjnxri.svg",
+      "title": "social-proof-section-master",
+      "text": " Lorem ipsum dolor sit amet consectetur adipisicing elit Error, a quos quae ratione quaerat itaque dolor ab consequuntur accusantium provident dicta quam velit sapiente dignissimos beatae in quisquam voluptas tempora explicabo molestiae repudiandae optio odit dolore aliquid? Exercitationem illum saepe fugit culpa consequatur soluta",
+      "id": 2
+    },
+    {
+      "link": "",
+      "title": "",
+      "text": "                        \n                    ",
+      "id": 3
+    },
+    {
+      "link": "https://res.cloudinary.com/diuay8wri/image/upload/v1692991216/images_folder/kriusz9rzaaggdxogqjf.svg",
+      "title": "product-preview-card-component-main",
+      "text": "officiis illo. Praesentium fugit \n              dolorem quasi laudantium quibusdam deleniti deserunt \n              dignissimos tempora quo inventore mollitia repudiandae \n              alias corrupti, ex vitae perspiciatis dolor vel tempore\n               officia itaque reiciendis aliquam? Saepe, rerum? \n               Nesciunt facere asperiores dolorum reiciendis \n               molestias aut architecto quas tempora, et sunt \n               voluptas, possimus eligendi eveniet recusandae sequi \n               numquam tempore dicta fugit laborum explicabo eum? \n               Quos impedit tenetur qui facere repellendus aliquam alias minima excepturi assumenda debitis, expedita reiciendis beatae quo. Minima quas fugiat beatae omnis excepturi ducimus. Ipsum odit repellat consequuntur eaque libero, pariatur odio modi. Quasi possimus nemo ratione voluptas minima accusantium sunt rerum amet, doloribus odio quam quo, natus officia repellat placeat enim ipsa at harum reprehenderit, quidem expedita magnam. Quibusdam minima voluptate ipsa voluptas cupiditate! Fugit porro assumenda natus, quas sint ipsum dolor at optio \n               necessitatibus aliquam laborum quos repudiandae perferendis obcaecati laboriosam quisquam pariatur placeat atque doloribus, in voluptatibus autem odio sequi nisi. Reprehenderit, optio! Facilis, vitae! Ducimus ipsa vel vero.       ",
+      "id": 4
+    },
+    {
+      "link": "https://res.cloudinary.com/diuay8wri/image/upload/v1692991481/images_folder/iye1kvfvhodzlpbdzhyz.svg",
+      "title": "testimonials-grid-section-main",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.\n             Error, a quos quae ratione quaerat itaque dolor ab \n             consequuntur accusantium provident dicta quam velit \n             sapiente dignissimos beatae in quisquam voluptas tempora\n              explicabo molestiae repudiandae optio odit dolore \n              aliquid? Exercitationem illum saepe fugit culpa \n              consequatur soluta, officiis illo. Praesentium fugit \n              dolorem quasi laudantium quibusdam deleniti deserunt \n              dignissimos tempora quo inventore mollitia repudiandae \n              alias corrupti, ex vitae perspiciatis dolor vel tempore\n               officia itaque reiciendis aliquam? Saepe, rerum? \n               Nesciunt facere asperiores dolorum reiciendis \n               molestias aut architecto quas tempora, et sunt \n               voluptas, possimus eligendi eveniet recusandae sequi \n               numquam tempore dicta fugit laborum explicabo eum? \n               Quos impedit tenetur qui facere repellendus aliquam alias minima excepturi assumenda debitis, expedita reiciendis beatae quo. Minima quas fugiat beatae omnis excepturi ducimus. Ipsum odit repellat consequuntur eaque libero, pariatur odio modi. Quasi possimus nemo ratione voluptas minima accusantium sunt rerum amet, doloribus odio quam quo, natus officia repellat placeat enim ipsa at harum reprehenderit, quidem expedita magnam. Quibusdam minima voluptate ipsa voluptas cupiditate! Fugit porro assumenda natus, quas sint ipsum dolor at optio \n               necessitatibus aliquam laborum quos repudiandae         ",
+      "id": 5
+    },
+    {
+      "link": "",
+      "title": "",
+      "text": "                        \n                    ",
+      "id": 6
+    },
+    {
+      "link": "https://res.cloudinary.com/diuay8wri/image/upload/v1692991645/images_folder/dd9zeuhrw4dsqkwlq7nb.svg",
+      "title": "love",
+      "text": " love love ❤ ",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
